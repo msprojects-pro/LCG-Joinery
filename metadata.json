@@ -1,0 +1,6 @@
+{
+  "name": "LCG Joinery",
+  "description": "Professional joinery company based in South Yorkshire & Doncaster, UK, providing bespoke carpentry, custom kitchens, staircases, decking, and renovations with 20+ years of experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
